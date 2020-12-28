@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98ea7512-132b-4921-a5bc-8de427049e39" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mFrwapzKyMspoGKr2lf6p9vCSz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.New">
+    <configuration name="New" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="New" />
+      <module name="pol" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pol" />
+      <module name="pol" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.New" />
+        <item itemvalue="Application.Pol" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98ea7512-132b-4921-a5bc-8de427049e39" name="Default Changelist" comment="" />
+      <created>1609100419623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609100419623</updated>
+      <workItem from="1609100423862" duration="6179000" />
+      <workItem from="1609144228789" duration="1938000" />
+      <workItem from="1609147074335" duration="15182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="96" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1609167013237">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="260" y="96" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.800@0.0.1280.800" timestamp="1609167013237" />
+    <state width="1238" height="153" key="GridCell.Tab.0.bottom" timestamp="1609170828820">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="153" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1609170828820" />
+    <state width="1238" height="153" key="GridCell.Tab.0.bottom/0.23.1280.703@0.23.1280.703" timestamp="1609170252350" />
+    <state width="1238" height="153" key="GridCell.Tab.0.center" timestamp="1609170828819">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="153" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1609170828819" />
+    <state width="1238" height="153" key="GridCell.Tab.0.center/0.23.1280.703@0.23.1280.703" timestamp="1609170252349" />
+    <state width="1238" height="153" key="GridCell.Tab.0.left" timestamp="1609170828818">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="153" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1609170828818" />
+    <state width="1238" height="153" key="GridCell.Tab.0.left/0.23.1280.703@0.23.1280.703" timestamp="1609170252348" />
+    <state width="1238" height="153" key="GridCell.Tab.0.right" timestamp="1609170828820">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="153" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1609170828820" />
+    <state width="1238" height="153" key="GridCell.Tab.0.right/0.23.1280.703@0.23.1280.703" timestamp="1609170252350" />
+    <state x="178" y="62" key="Maven.ArtifactSearchDialog" timestamp="1609169519290">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="178" y="62" key="Maven.ArtifactSearchDialog/0.0.1280.800@0.0.1280.800" timestamp="1609169519290" />
+    <state x="149" y="39" key="SettingsEditor" timestamp="1609167199922">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1609167199922" />
+  </component>
+</project>
